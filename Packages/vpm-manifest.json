@@ -1,0 +1,113 @@
+{
+  "dependencies": {
+    "com.vrchat.avatars": {
+      "version": "3.5.1"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.28"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.3.1"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.8"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.27"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.812.0"
+    },
+    "wholesomevr.sps-configurator": {
+      "version": "2.0.7"
+    },
+    "wholesome.dependencies": {
+      "version": "1.0.16"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.7.2"
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "1.1.0"
+    },
+    "io.github.rurre.pumkinsavatartools": {
+      "version": "1.4.4"
+    },
+    "com.poiyomi.toon": {
+      "version": "8.1.167"
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "1.3.6"
+    }
+  },
+  "locked": {
+    "com.vrchat.avatars": {
+      "version": "3.5.1",
+      "dependencies": {
+        "com.vrchat.base": "3.5.1"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.5.1",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.28",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "3.3.1",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.1.0 <3.6.0"
+      }
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.8.8",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2.x || 3.3.x || 3.4.x || 3.5.x"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.27",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.2.0 < 3.6.0"
+      }
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.812.0",
+      "dependencies": {}
+    },
+    "wholesomevr.sps-configurator": {
+      "version": "2.0.7",
+      "dependencies": {
+        "com.vrchat.avatars": "3.*"
+      }
+    },
+    "wholesome.dependencies": {
+      "version": "1.0.16",
+      "dependencies": {
+        "com.vrchat.avatars": "3.*"
+      }
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.7.2",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.avatar-utils": {
+      "version": "1.1.0",
+      "dependencies": {}
+    },
+    "io.github.rurre.pumkinsavatartools": {
+      "version": "1.4.4",
+      "dependencies": {}
+    },
+    "com.poiyomi.toon": {
+      "version": "8.1.167",
+      "dependencies": {}
+    },
+    "de.thryrallo.vrc.avatar-performance-tools": {
+      "version": "1.3.6",
+      "dependencies": {}
+    }
+  }
+}
