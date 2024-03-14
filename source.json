@@ -1,0 +1,19 @@
+{
+    "name":"Example Listing",
+    "id":"com.vrchat.example-listing",
+    "url":"https://ZeroShugan.github.io/shugan.shugantestvpm/index.json",
+    "author":{
+        "email":"developer@vrchat.com",
+        "name":"VRChat",
+        "url":"https://hello.vrchat.com"
+    },
+    "description":"Example listing of VRChat packages",
+    "infoLink":{
+        "url":"https://github.com/ZeroShugan/shugan.shugantestvpm",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "VRCFury/VRCFury"
+    ],
+}
